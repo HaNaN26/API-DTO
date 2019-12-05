@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.WebApiTask", "ITI.WebApiTask\ITI.WebApiTask.csproj", "{372A22CA-EEB7-47CA-8CE3-B0946B7B20DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372A22CA-EEB7-47CA-8CE3-B0946B7B20DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372A22CA-EEB7-47CA-8CE3-B0946B7B20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372A22CA-EEB7-47CA-8CE3-B0946B7B20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372A22CA-EEB7-47CA-8CE3-B0946B7B20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE3D627-EE03-4407-9786-C6D52D80B826}
+	EndGlobalSection
+EndGlobal
